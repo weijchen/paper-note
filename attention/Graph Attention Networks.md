@@ -51,7 +51,11 @@ Bengio, Yoshua
 
 ## 評估方法
 * Transductive learning: 訓練中只知 testing data (unlabelled data), 調整 training node 的數量，衡量不同情境下的準確度
+    * Cora
+    * Citeseer
+    * Pubmed
 * Inductive learning: 訓練中不知道 testing data, 訓練好模型後去解決未知的 testing data
+    * PPI
 ## 研究貢獻
 * Attention 機制是共享的，是一種局部模型
 
