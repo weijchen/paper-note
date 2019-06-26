@@ -4,12 +4,12 @@
 [1]: https://arxiv.org/abs/1710.10903 
 
 ## 作者: 
->Veličković, Petar
-Cucurull, Guillem
-Casanova, Arantxa
-Romero, Adriana
-Liò, Pietro
-Bengio, Yoshua
+> Petar Veličković, 
+> Guillem Cucurull, 
+> Arantxa Casanova, 
+> Adriana Romero, 
+> Pietro Liò, 
+> Yoshua Bengio
 
 ## 研究目的
 * 解決傳統方式 (spectral-based method) 在做 graph convolution 的問題
